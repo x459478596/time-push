@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+{
+    "app_id": "Your app_id",
+    "app_secret": "Your app_secret",
+    "template_id": "Your template_id",
+    "user": [
+        "",
+        ""
+    ],
+    "province": "\u5c71\u897f",
+    "city": "\u9633\u6cc9",
+    "birthday1": "2005-12-25",
+    "birthday2": "2001-10-20",
+    "birthday3": "1997-01-03",
+    "love_date": "2024-06-28",
+    "Whether_Eng": "True",
+    "Whether_caihongpi": true,
+    "Whether_lizhi": true,
+    "Whether_tip": true,
+    "Whether_health": false,
+    "Whether_lucky": true,
+    "tianxing_API": "72733198276569f034d3f35d757ebd0a",
+    "astro": "\u6469\u7faf\u5ea7"
+}
